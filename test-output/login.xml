@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0">
+<testcase classname="Login" name="Positive login case" time="0">
+<skipped><![CDATA[Given User is on imdbpage...................................................undefined
+When User enters "sojijoy171097@gmail.com" and "Time@space7"................undefined
+And User enters signin button...............................................undefined
+Then User is logged in......................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Registration" name="Positive login case" time="0">
+<skipped><![CDATA[Given User is on imdbpage...................................................undefined
+When User enters the "Soji" "sojijoy171097@gmail.com" "Time@space7" "Time@space7".undefined
+And User enters signup button...............................................undefined
+Then User is directed to homepage...........................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
